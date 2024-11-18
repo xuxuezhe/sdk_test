@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import sdk_test
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        MyTest.sayHello(with: "aaa")
     }
 
     override func didReceiveMemoryWarning() {
