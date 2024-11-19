@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'sdk_test'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of sdk_test.'
+  s.summary          = '사용자 데이터를 효율적으로 관리하기 위한 경량 SDK'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
